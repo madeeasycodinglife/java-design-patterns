@@ -16,6 +16,7 @@
         <module>chain-of-responsibility</module>
         <module>command</module>
         <module>mediator</module>
+        <module>observer</module>
     </modules>
 
     <properties>
