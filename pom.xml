@@ -12,6 +12,8 @@
         <module>Singleton</module>
         <module>factory</module>
         <module>abstract-factory</module>
+        <module>prototype</module>
+        <module>chain-of-responsibility</module>
     </modules>
 
     <properties>
