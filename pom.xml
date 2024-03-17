@@ -31,6 +31,7 @@
         <module>service-locator</module>
         <module>transfer-object</module>
         <module>builder</module>
+        <module>bridge</module>
     </modules>
 
     <properties>
