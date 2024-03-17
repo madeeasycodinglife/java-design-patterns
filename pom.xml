@@ -24,6 +24,7 @@
         <module>visitor</module>
         <module>mvc</module>
         <module>business-delegate</module>
+        <module>composite-entity</module>
     </modules>
 
     <properties>
