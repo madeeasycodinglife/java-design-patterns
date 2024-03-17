@@ -30,6 +30,7 @@
         <module>intercepting-filter</module>
         <module>service-locator</module>
         <module>transfer-object</module>
+        <module>builder</module>
     </modules>
 
     <properties>
