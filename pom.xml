@@ -28,6 +28,7 @@
         <module>data-access-object</module>
         <module>front-controller</module>
         <module>intercepting-filter</module>
+        <module>service-locator</module>
     </modules>
 
     <properties>
