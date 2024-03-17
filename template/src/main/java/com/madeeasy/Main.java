@@ -1,7 +1,7 @@
 package com.madeeasy;
 
-import com.madeeasy.impl.BlackTea;
-import com.madeeasy.impl.GreenTea;
+import com.madeeasy.animal.impl.BlackTea;
+import com.madeeasy.animal.impl.GreenTea;
 
 // Client code
 public class Main {

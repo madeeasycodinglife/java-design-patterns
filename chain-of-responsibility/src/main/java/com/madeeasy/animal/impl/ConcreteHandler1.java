@@ -1,17 +1,16 @@
-package com.madeeasy.impl;
+package com.madeeasy.animal.impl;
 
 import com.madeeasy.Handler;
-import lombok.Data;
 
 
-public class ConcreteHandler3 implements Handler {
+public class ConcreteHandler1 implements Handler {
 
     private Handler successor;
 
     @Override
     public void handleRequest(int request) {
-        if (request >= 30 && request < 40) {
-            System.out.println("Handled by ConcreteHandler3: " + request);
+        if (request >= 0 && request < 10) {
+            System.out.println("Handled by ConcreteHandler1: " + request);
         } else if (successor != null) {
             successor.handleRequest(request);
         } else {

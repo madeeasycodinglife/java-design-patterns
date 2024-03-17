@@ -1,4 +1,4 @@
-package com.madeeasy.impl;
+package com.madeeasy.animal.impl;
 
 import com.madeeasy.Handler;
 import lombok.Data;

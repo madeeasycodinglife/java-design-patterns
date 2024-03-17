@@ -1,7 +1,7 @@
 package com.madeeasy;
 
-import com.madeeasy.impl.TurnOffCommand;
-import com.madeeasy.impl.TurnOnCommand;
+import com.madeeasy.animal.impl.TurnOffCommand;
+import com.madeeasy.animal.impl.TurnOnCommand;
 
 public class Main {
     public static void main(String[] args) {

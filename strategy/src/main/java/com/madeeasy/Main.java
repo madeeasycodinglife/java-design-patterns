@@ -1,7 +1,7 @@
 package com.madeeasy;
 
-import com.madeeasy.impl.CasualGreeting;
-import com.madeeasy.impl.FormalGreeting;
+import com.madeeasy.animal.impl.CasualGreeting;
+import com.madeeasy.animal.impl.FormalGreeting;
 
 // Client code
 public class Main {

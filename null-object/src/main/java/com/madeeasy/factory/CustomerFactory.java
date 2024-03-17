@@ -1,8 +1,8 @@
 package com.madeeasy.factory;
 
 import com.madeeasy.Customer;
-import com.madeeasy.impl.NullCustomer;
-import com.madeeasy.impl.RealCustomer;
+import com.madeeasy.animal.impl.NullCustomer;
+import com.madeeasy.animal.impl.RealCustomer;
 
 // Factory class to get customer object
 public class CustomerFactory {

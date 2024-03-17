@@ -1,8 +1,8 @@
 package com.madeeasy;
 
-import com.madeeasy.impl.ConcreteHandler1;
-import com.madeeasy.impl.ConcreteHandler2;
-import com.madeeasy.impl.ConcreteHandler3;
+import com.madeeasy.animal.impl.ConcreteHandler1;
+import com.madeeasy.animal.impl.ConcreteHandler2;
+import com.madeeasy.animal.impl.ConcreteHandler3;
 
 public class Main {
     public static void main(String[] args) {
