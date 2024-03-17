@@ -25,6 +25,7 @@
         <module>mvc</module>
         <module>business-delegate</module>
         <module>composite-entity</module>
+        <module>data-access-object</module>
     </modules>
 
     <properties>
