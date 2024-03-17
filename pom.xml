@@ -29,6 +29,7 @@
         <module>front-controller</module>
         <module>intercepting-filter</module>
         <module>service-locator</module>
+        <module>transfer-object</module>
     </modules>
 
     <properties>
